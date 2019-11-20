@@ -32,6 +32,7 @@ make it easier to track what has changed over time*
 * Per spec configuration [#888](https://github.com/jupyterhub/binderhub/pull/888) ([@choldgraf](https://github.com/choldgraf))
 * adding federation page [#868](https://github.com/jupyterhub/binderhub/pull/868) ([@choldgraf](https://github.com/choldgraf))
 * DinD documentation [#838](https://github.com/jupyterhub/binderhub/pull/838) ([@jhamman](https://github.com/jhamman))
+* Add Dataverse to UI [#969](https://github.com/jupyterhub/binderhub/pull/969) ([@xarthisius](https://github.com/xarthisius))
 
 ## Bugs fixed
 * Fix node affinity selector [#963](https://github.com/jupyterhub/binderhub/pull/963) ([@betatim](https://github.com/betatim))
